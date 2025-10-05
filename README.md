@@ -1,7 +1,7 @@
-# Climate Data Analysis (1901-1905)
+# Climate Data Analysis (1901-2020)
 
 ## Project Overview
-This project analyzes climate data from 1901 to 1905, focusing on annual and seasonal temperature trends. The analysis includes visualizations such as scatter plots, box plots, and bar plots to better understand the data.
+This project analyzes climate data from 1901 to 2020, focusing on annual and seasonal temperature trends. The analysis includes visualizations such as scatter plots, box plots, and bar plots to better understand the data.
 
 ## Dataset
 The dataset contains the following columns:
@@ -25,7 +25,7 @@ The dataset is sourced from [data.gov.in](https://data.gov.in/).
 ## Observations
 1. **Annual Temperature**:
    - Mean: ~25°C
-   - Trend: Slight decrease from 1901 to 1905.
+   - Trend: Slight decrease from 1901 to 2020.
 2. **Seasonal Averages**:
    - Hottest Season: **JUN-SEP** (Monsoon/Summer)
    - Coolest Season: **JAN-FEB** (Winter)
